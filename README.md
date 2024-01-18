@@ -29,4 +29,9 @@ Note that the csv and json files will not be available here, due to copywrite is
 5. Which province in Maji Ndogo has the lowest number of crimes against women?
 
 ### Findings/Results
-1. 
+1. The percentage of people living in the rural parts of Maji Ndogo IS **63.85%**
+2. The number of people using shared taps in the urban areas of Maji Ndogo is close to **3 million** people.
+3. On weekends (Saturday-Sunday), the proportions of women and men in queues are more equally distributed than on weekdays.
+4. Women a most likey to be **harassed** while collecting water.
+5. Amanzi province has **lowest number of crimes**.
+   
