@@ -1,6 +1,12 @@
 # Water-Problem-in-an-African-Country
 
 ### Table of Contents
+- [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Steps for Creating the Power Bi Report](#Steps-for-Creating-the-Power-Bi-Report)
+- [ 5 Key questions to Investigate](#5-Key-questions-to-Investigate)
+- [Findings/Results](#Findings/Results)
 
 ### Project Overview
 This project dives into a gender lens on water access in fictional African country called Maji Ndogo. We'll analyze survey data to reveal inequalities, understand their impacts, and recommend solutions to achieve fairer water access for all, especially women and girls. Join us to make a splash for gender equality!
