@@ -1,4 +1,4 @@
-# Unequal Flow: Disparities in Water Access Across an Africa Community
+# Unequal Flow: Disparities in Water Access Across an African Community.
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
