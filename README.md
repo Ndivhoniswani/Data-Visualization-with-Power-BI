@@ -1,5 +1,4 @@
-# Water-Problem-in-an-African-Country
-
+# Unequal Flow: Disparities in Water Access Across an Africa Community
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
