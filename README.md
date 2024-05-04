@@ -1,4 +1,7 @@
 # Unequal Flow: Disparities in Water Access Across an African Community.
+
+![Power BI](https://github.com/Ndivhoniswani/Data-Visualization-with-Power-BI/blob/main/Power%20Bi%20Image.png)
+
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
